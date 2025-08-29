@@ -1,0 +1,17 @@
+/* Styles specific to the 404 page.  Keep the content centred and
+   emphasise the error message so that users immediately understand
+   they've navigated to a non-existent route. */
+
+.title {
+  margin-top: 64px;
+  font-size: 2rem;
+  text-align: center;
+  color: #333;
+}
+
+.description {
+  margin-top: 16px;
+  font-size: 1.25rem;
+  text-align: center;
+  color: #555;
+}
